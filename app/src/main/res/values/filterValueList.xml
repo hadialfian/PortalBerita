@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- COUNTRY-->
+    <string-array name="countryNameList">
+        <item>Indonesia</item>
+        <item>Uni Emirat Arab</item>
+        <item>Argentina</item>
+        <item>Austria</item>
+        <item>Australia</item>
+        <item>Belgium</item>
+        <item>Bulgaria</item>
+        <item>Brazil</item>
+        <item>Kanada</item>
+        <item>Swiss</item>
+        <item>China</item>
+        <item>Kolombia</item>
+        <item>Kuba</item>
+        <item>Ceko</item>
+        <item>Jerman</item>
+        <item>Egypt</item>
+        <item>Prancis</item>
+        <item>Inggris</item>
+        <item>Yunani</item>
+        <item>Hongkong</item>
+        <item>Hungaria</item>
+        <item>Irlandia</item>
+        <item>Israel</item>
+        <item>India</item>
+        <item>Italia</item>
+        <item>Jepang</item>
+        <item>Korea Selatan</item>
+        <item>Lituania</item>
+        <item>Latvia</item>
+        <item>Maroko</item>
+        <item>Mexico</item>
+        <item>Malaysia</item>
+        <item>Nigeria</item>
+        <item>Belanda</item>
+        <item>Norwegia</item>
+        <item>Selandia Baru</item>
+        <item>Filipina</item>
+        <item>Polandia</item>
+        <item>Portugal</item>
+        <item>Romania</item>
+        <item>Serbia</item>
+        <item>Rusia</item>
+        <item>Saudi Arabia</item>
+        <item>Swedia</item>
+        <item>Singapura</item>
+        <item>Slovenia</item>
+        <item>Slovakia</item>
+        <item>Thailand</item>
+        <item>Turki</item>
+        <item>Taiwan</item>
+        <item>Ukraina</item>
+        <item>Amerika</item>
+        <item>Venezuela</item>
+        <item>Afrika Selatan</item>
+    </string-array>
+
+    <string-array name="countryCodeList">
+        <item>id</item>
+        <item>ae</item>
+        <item>ar</item>
+        <item>at</item>
+        <item>au</item>
+        <item>be</item>
+        <item>bg</item>
+        <item>br</item>
+        <item>ca</item>
+        <item>ch</item>
+        <item>cn</item>
+        <item>co</item>
+        <item>cu</item>
+        <item>cz</item>
+        <item>de</item>
+        <item>eg</item>
+        <item>fr</item>
+        <item>gb</item>
+        <item>gr</item>
+        <item>hk</item>
+        <item>hu</item>
+        <item>ie</item>
+        <item>il</item>
+        <item>in</item>
+        <item>it</item>
+        <item>jp</item>
+        <item>kr</item>
+        <item>lt</item>
+        <item>lv</item>
+        <item>ma</item>
+        <item>mx</item>
+        <item>my</item>
+        <item>ng</item>
+        <item>nl</item>
+        <item>no</item>
+        <item>nz</item>
+        <item>ph</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ro</item>
+        <item>rs</item>
+        <item>ru</item>
+        <item>sa</item>
+        <item>se</item>
+        <item>sg</item>
+        <item>si</item>
+        <item>sk</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>tw</item>
+        <item>ua</item>
+        <item>us</item>
+        <item>ve</item>
+        <item>za</item>
+
+    </string-array>
+
+    <!-- CATEGORY-->
+    <string-array name="categoryList">
+        <item>general</item>
+        <item>business</item>
+        <item>entertainment</item>
+        <item>health</item>
+        <item>science</item>
+        <item>sports</item>
+        <item>technology</item>
+    </string-array>
+
+</resources>
